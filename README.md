@@ -1,3 +1,9 @@
 # MILESTONE6
-## Using mongodb and expressjs
 ## A Todo Application
+## Technologies Used
+
+Javascript
+
+ExpressJs
+
+MongoDB
