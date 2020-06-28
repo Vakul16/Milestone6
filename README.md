@@ -1,4 +1,4 @@
-# MILESTONE6
+# Milestone6
 ## A Todo Application
 ## Technologies Used
 
